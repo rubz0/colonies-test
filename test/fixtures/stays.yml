@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tenant: one
+  starts_at: 2019-03-26
+  ends_at: 2019-03-26
+
+two:
+  tenant: two
+  starts_at: 2019-03-26
+  ends_at: 2019-03-26
