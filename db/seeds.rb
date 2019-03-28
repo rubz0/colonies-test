@@ -49,5 +49,3 @@ stays = [
 stays.each do |tenant, studio, starts_at, ends_at|
   Stay.create(tenant: tenant, studio: studio, starts_at: starts_at, ends_at: ends_at)
 end
-
-

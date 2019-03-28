@@ -2,10 +2,12 @@
 
 one:
   tenant: one
-  starts_at: 2019-03-26
-  ends_at: 2019-03-26
+  studio: one
+  starts_at: 2019-01-01
+  ends_at: 2019-01-10
 
 two:
   tenant: two
-  starts_at: 2019-03-26
-  ends_at: 2019-03-26
+  studio: two
+  starts_at: 2019-02-01
+  ends_at: 2019-06-01
